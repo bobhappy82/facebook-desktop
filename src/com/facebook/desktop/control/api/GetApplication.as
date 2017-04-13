@@ -2,7 +2,6 @@ package com.facebook.desktop.control.api
 {
 	import com.facebook.desktop.model.Model;
 	import com.facebook.desktop.model.cache.ApplicationCache;
-	
 	import mx.logging.ILogger;
 	import mx.logging.Log;
 
